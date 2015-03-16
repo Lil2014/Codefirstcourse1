@@ -12,21 +12,27 @@ header {text-align: center;
       font-family: "AR CHRISTY";
     }
 
-    #sub_heading {font-size: 40px;
-      font-family: "AR CHRISTY";}
+    #sub_heading {
+      font-size: 40px;
+      font-family: "AR CHRISTY";
+      }
 
     #find_nature {font-size:10px;
       font-family: "AR CHRISTY";
       text-align: center;
     }
 
-    #column_heading {font-size:30px;}
+    #column_heading {
+      font-size:30px;
+       }
 
     #enter {
       text-align: center;
     }
 
-    #go {color:black;}
+    #go {
+      color:black;
+      }
 
     .row {text-align: center;
       padding:80px 80px 80px 80px;
@@ -45,7 +51,8 @@ header {text-align: center;
       height: 50px;
     }
 
-    li {display: inline;
+    li {
+      display: inline;
       padding: 0px 30px 0px 10px;
       color:white;
       font-size: 25px;
@@ -94,7 +101,9 @@ a {
       font-family: "AR CHRISTY";
       font-size:20px;}
 
-      form label {display:inline-block; width:140px;}
+      form label {
+             display:inline-block; width:140px;
+             }
       form input[type="text"],
       form input[type="password"],
       form input[type="email"] {width:160px;}
